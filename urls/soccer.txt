@@ -1,0 +1,12 @@
+epl||http://www.livescores.com/soccer/england/premier-league/
+la liga||http://www.livescores.com/soccer/spain/primera-division/
+bundesliga||http://www.livescores.com/soccer/germany/bundesliga/
+serie a||http://www.livescores.com/soccer/italy/serie-a/
+ligue 1||http://www.livescores.com/soccer/france/ligue-1/
+spfl||http://www.livescores.com/soccer/scotland/premier-league/
+mls||http://www.livescores.com/soccer/usa/mls/
+eredivisie||http://www.livescores.com/soccer/holland/eredivisie/
+brasileirao||http://www.livescores.com/soccer/brazil/serie-a-brasileiro/
+allsvenskan||http://www.livescores.com/soccer/sweden/allsvenskan/
+liga mx||http://www.livescores.com/soccer/mexico/apertura/
+liga sagres||http://www.livescores.com/soccer/portugal/liga-sagres/
